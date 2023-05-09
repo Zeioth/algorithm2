@@ -1,5 +1,5 @@
 # algorithm2
-Slightly out of time, but done
+Part of the codelity entry test for CommerceHub.
 
 ## What is this
 This project simulates the codelity environment. It can be used to verify the code runs correctly.
